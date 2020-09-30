@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- string generales-->
+    <string name="app_name">Cursera Ein</string>
+    <string name="bienvenido">Willkommen</string>
+
+    <!-- string de botones-->
+    <string name="btn_entrar">Betreten</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- string generales-->
+    <string name="app_name">Cursera Uno</string>
+    <string name="bienvenido">Bienvenido</string>
+
+    <!-- string de botones-->
+    <string name="btn_entrar">Entrar</string>
+</resources>
