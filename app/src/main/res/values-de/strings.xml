@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <!-- string generales-->
-    <string name="app_name">Cursera Ein</string>
-    <string name="bienvenido">Willkommen</string>
-
-    <!-- string de botones-->
-    <string name="btn_entrar">Betreten</string>
+    <string name="app_name">Practica1</string>
+    <string name="saludo">Willkommen</string>
+    <string name="boton">Betreten</string>
 </resources>
